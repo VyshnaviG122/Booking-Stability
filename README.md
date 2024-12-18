@@ -111,7 +111,10 @@ City hotels are facing a high cancellation rate, with 41.7% of reservations gett
 
 • By addressing these areas, Portugal can work towards aligning its cancellation rates more closely with other countries, stabilizing and potentially increasing its reservation rates.
 
+
 Suggestions
+
+
 1.Cancellation rates increase as prices rise. To reduce reservation cancellations, hotels should consider adjusting their pricing strategies and lowering rates for specific locations. Additionally, offering discounts to customers could be beneficial.
 
 2.The ratio of cancellations to non-cancellations is higher for resort hotels compared to city hotels. Therefore, resort hotels should offer reasonable discounts on room prices during weekends or holidays.
